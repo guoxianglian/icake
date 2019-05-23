@@ -1,6 +1,6 @@
 # icake
 
-## author?COCO
+## author:COCO
 
 ## Project setup
 ```
